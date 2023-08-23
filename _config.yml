@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tianhao Zhang / Personal Webpage"
+title                    : "Tianhao Zhang/Personal Webpage"
 title_separator          : "-"
 name                     : &name "Zhang"
 description              : &description "personal description"

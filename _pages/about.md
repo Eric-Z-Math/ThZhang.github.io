@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a 2nd year applied mathematics Ph.D student at the University of Minnesota, Twin Cities. My advisor is [Prof. Hans Othmer](https://www-users.cse.umn.edu/~othmer/). I earned an Honors B.S in mathematics and applied mathematics at CKC Honors College, Zhejiang University in 2020, and my undergraduate thesis was advised by [Prof. Qinghai Zhang](https://person.zju.edu.cn/en/qinghai).
 
-My research interest includes ...
+My research interest includes Computational biology, Computational Neuroscience, Complex Networks and NLP
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 

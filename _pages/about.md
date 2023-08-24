@@ -24,10 +24,10 @@ The Interaction of Mechanics and the Hippo Pathway in Drosophila
 This is a collaborated work with [Prof. Hans Othmer](https://www-users.cse.umn.edu/~othmer/), and [Prof. Jia Gou](https://jiagou105.github.io/).
 
 Theoritical framework for the context-dependent computation and operator learning in neuronal networks
-======
+------
 This is a collaborated work with [Prof. Christoph Kirst](https://neurograd.ucsf.edu/people/christoph-kirst-phd-ms-bs)
 
 BBScore: A Brownian Bridge Based Metric for Assessing Text Coherence
-======
+------
 This is a collaborated work with [Cheng Jiang](https://cse.umn.edu/isye/chen-jiang), [Zhecheng Sheng](https://scholar.google.com/citations?user=6GSRIycAAAAJ&hl=en) and [Prof. Dongyeop Kang](https://dykang.github.io/).
 

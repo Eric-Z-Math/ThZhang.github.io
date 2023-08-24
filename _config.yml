@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tianhao Zhang"
   avatar           : "tianhao_zhang_pic.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "US"
+  bio              : "Graduate Student @UMN Applied Math"
+  location         : "270B Vincent Hall, MN 55455"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=o6BZtjMAAAAJ&hl=en"
-  email            :
+  email            : "zhan7594@umn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://eric-z-math.github.io"
+  github           : "https://github.com/Eric-Z-Math"
   google_plus      :
   keybase          :
   instagram        :

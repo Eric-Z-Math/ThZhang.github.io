@@ -22,15 +22,17 @@ Modeling of the neuron-astrocyte network
 ------
 *This is a collaborated work with [Prof. Gregory Handy](https://gregoryhandy.github.io/), and [Prof. Hans Othmer](https://www-users.cse.umn.edu/~othmer/).*
 
-The interaction of mechanics and the Hippo pathway in Drosophila
-------
-*This is a collaborated work with [Prof. Jia Gou](https://jiagou105.github.io/), and [Prof. Hans Othmer](https://www-users.cse.umn.edu/~othmer/).*
-
 Theoritical framework for the context-dependent computation and operator learning in neuronal networks
 ------
 *This is a collaborated work with [Prof. Christoph Kirst](https://neurograd.ucsf.edu/people/christoph-kirst-phd-ms-bs).*
 
+The interaction of mechanics and the Hippo pathway in Drosophila
+------
+Accepted by Cancers
+*This is a collaborated work with [Prof. Jia Gou](https://jiagou105.github.io/), and [Prof. Hans Othmer](https://www-users.cse.umn.edu/~othmer/).*
+
 BBScore: A Brownian bridge based metric for assessing text coherence
 ------
+Submitted to AAAI 2024
 *This is a collaborated work with [Cheng Jiang](https://cse.umn.edu/isye/chen-jiang), [Zhecheng Sheng](https://scholar.google.com/citations?user=6GSRIycAAAAJ&hl=en) and [Prof. Dongyeop Kang](https://dykang.github.io/).*
 

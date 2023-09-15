@@ -5,20 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-lalalala
+**The Interaction of Mechanics and the Hippo Pathway in Drosophila melanogaster**
 
-lalalalal
-l
+Accepted by Cancers (2023)
 
-lllaaa
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+**A constructive proof of the Cauchy–Kovalevskaya theorem for ordinary differential equations**
 
-#{% include base_path %}
-#{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
+Published in Journal of Fixed Point Theory and Applications, 2021
+
+Doi: https://doi.org/10.1007/s11784-020-00841-1
+
+
+
 
 

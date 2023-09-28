@@ -34,7 +34,7 @@ Accepted by Cancers
 
 BBScore: A Brownian bridge based metric for assessing text coherence
 ------
-Submitted to AAAI 2024
+Submitted to AAAI 2024 (Update 09/27: Phase 1 passed)
 
 *This is a collaborated work with [Cheng Jiang](https://cse.umn.edu/isye/chen-jiang), [Zhecheng Sheng](https://scholar.google.com/citations?user=6GSRIycAAAAJ&hl=en) and [Prof. Dongyeop Kang](https://dykang.github.io/).*
 

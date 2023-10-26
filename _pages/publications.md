@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **The Interaction of Mechanics and the Hippo Pathway in Drosophila melanogaster**
-Cancers (2023), DOI: https://doi.org/10.3390/cancers15194840 (registering DOI)
+Cancers (2023), DOI: https://doi.org/10.3390/cancers15194840 
 
 
 **A constructive proof of the Cauchy–Kovalevskaya theorem for ordinary differential equations**

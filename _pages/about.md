@@ -28,7 +28,7 @@ Theoritical framework for the context-dependent computation and operator learnin
 
 The interaction of mechanics and the Hippo pathway in Drosophila
 ------
-#Accepted by Cancers
+'''Accepted by Cancers'''
 
 *This is a collaborated work with [Prof. Jia Gou](https://jiagou105.github.io/), and [Prof. Hans Othmer](https://www-users.cse.umn.edu/~othmer/).*
 

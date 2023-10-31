@@ -20,11 +20,11 @@ Current Research
 
 Modeling of the neuron-astrocyte network
 ------
-*This is a collaborated work with [Prof. Gregory Handy](https://gregoryhandy.github.io/), and [Prof. Hans Othmer](https://www-users.cse.umn.edu/~othmer/).*
+*In this project, we are developing models to understand the astrocyte morphological remodeling process and its implications in brain functions such as learning and memory. In collaboration with [Prof. Gregory Handy](https://gregoryhandy.github.io/) and [Prof. Hans Othmer](https://www-users.cse.umn.edu/~othmer/), we have begun to address the intriguing question of the astrocyte's role in the brain. We aim to comprehend the astrocyte's involvement in neuronal networks by modeling its morphological remodeling process and integrating it into the local tripartite synapse model \cite{Semyanov:2021aa}. It will involve multiscale modeling to simulate different timescales for neural signals, astrocytic signals and their interactions, and the finite element method to model the changes in the cell volume and shape. Additionally, we may explore stochastic modeling to simulate interactions within myriad microdomains surrounding astrocytes, which can not be fully captured by current lab experiments. In a summary, we aspire to develop an adaptable model that will allow us to extend this localized model into a network-level framework—a neuron-astrocyte network model which could potentially enhance our understanding of current artificial networks, like the transformer*
 
 Theoritical framework for the context-dependent computation and operator learning in neuronal networks
 ------
-*This is a collaborated work with [Prof. Christoph Kirst](https://neurograd.ucsf.edu/people/christoph-kirst-phd-ms-bs).*
+*This is a collaborated work with [Prof. Christoph Kirst](https://neurograd.ucsf.edu/people/christoph-kirst-phd-ms-bs). We are developing a tensor-based learning algorithm to simulate and explore synchronized learning behavior in the brain. Paper to be uploaded.*
 
 BBScore: A Brownian bridge based metric for assessing text coherence
 ------

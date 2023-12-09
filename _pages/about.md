@@ -32,7 +32,7 @@ Theoritical framework for the context-dependent computation and operator learnin
 
 BBScore: A Brownian bridge based metric for assessing text coherence
 ------
-Submitted to AAAI 2024 (Update 12/08: Paper accepted)
+Accepted by AAAI 2024 (Update 12/08)
 
 *This is a collaborated work with [Cheng Jiang](https://cse.umn.edu/isye/chen-jiang), [Zhecheng Sheng](https://scholar.google.com/citations?user=6GSRIycAAAAJ&hl=en) and [Prof. Dongyeop Kang](https://dykang.github.io/).*
 

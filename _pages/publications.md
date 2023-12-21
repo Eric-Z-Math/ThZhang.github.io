@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 **BBScore: A Brownian bridge based metric for assessing text coherence**
- *AAAI (2024), to be published
+
+ *AAAI (2024), to be published*
  
 **The Interaction of Mechanics and the Hippo Pathway in Drosophila melanogaster**
 

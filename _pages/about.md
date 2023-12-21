@@ -30,9 +30,3 @@ Theoritical framework for the context-dependent computation and operator learnin
 ------
 *In this project, we are investigating complex network modularization and network reduction. This project, which began in my first year as a review to understand biological complex networks, is a collaboration with [Prof. Hans Othmer](https://www-users.cse.umn.edu/~othmer/). We are aiming to find an efficient and effective method to simplify complex biological networks. To tackle this problem, we employ both continuous methods (e.g. ODEs) and discrete methods (e.g. Boolean model) and analyze both the structure of the system and its dynamics. Furthermore, we verify our idea on different systems such as gene regulation networks.*
 
-BBScore: A Brownian bridge based metric for assessing text coherence
-------
-Accepted by AAAI 2024 (Update 12/08)
-
-*This is a collaborated work with [Cheng Jiang](https://cse.umn.edu/isye/chen-jiang), [Zhecheng Sheng](https://scholar.google.com/citations?user=6GSRIycAAAAJ&hl=en) and [Prof. Dongyeop Kang](https://dykang.github.io/).*
-

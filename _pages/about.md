@@ -26,7 +26,7 @@ Modeling the Self-reconfiguration Process in Neuronal Networks
 ------
 *This is a collaborated work with [Prof. Christoph Kirst](https://neurograd.ucsf.edu/people/christoph-kirst-phd-ms-bs). We are developing a tensor-based learning algorithm to simulate and explore synchronized learning behavior in the brain. Paper to be uploaded.*
 
-In-Context Learning for dynamical systems
+In-Context Learning of PDEs
 ------
 *This is a collaborated work with [Prof. Yulong Lu](https://lu.math.umn.edu/).*
 

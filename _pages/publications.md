@@ -4,10 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**On the Sequence Evaluation based on Stochastic Processes**
 
+ *arXiv preprint, DOI: https://arxiv.org/abs/2405.17764*
+ 
 **BBScore: A Brownian bridge based metric for assessing text coherence**
 
- *AAAI (2024), DOI: https://arxiv.org/abs/2312.16893*
+ *AAAI (2024), DOI: https://doi.org/10.1609/aaai.v38i13.29414*
  
 **The Interaction of Mechanics and the Hippo Pathway in Drosophila melanogaster**
 

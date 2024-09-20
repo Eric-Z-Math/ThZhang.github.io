@@ -7,7 +7,7 @@ author_profile: true
 
 <h2> Preprints </h2><hr />
 
-<h3> On the Sequence Evaluation based on Stochastic Processes </h3><hr />
+<h3> On the Sequence Evaluation based on Stochastic Processes </h3>
 <div class="wordwrap"> <a href="{https://arxiv.org/abs/2405.17764}">arXiv preprint</a>.</div>
 
 <h2>{Publications}</h2><hr />

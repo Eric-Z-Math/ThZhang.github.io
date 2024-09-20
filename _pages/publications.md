@@ -7,7 +7,11 @@ author_profile: true
 
 <h2> Preprints </h2><hr />
 
-<h3> On the Sequence Evaluation based on Stochastic Processes </h3> <div class="wordwrap"> <a href="{https://arxiv.org/abs/2405.17764}">arXiv preprint</a>.</div>
+<h3> On the Sequence Evaluation based on Stochastic Processes </h3> 
+<div class="wordwrap"> Tianhao Zhang*, Zhexiao Lin*, Zhecheng Sheng*, Chen Jiang* and Dongyeop Kang (*=equal contributions), 2024. <a href="{https://arxiv.org/abs/2405.17764}">arXiv preprint</a>.</div>
+
+<h3> Provable In-Context Learning of Linear Systems and Linear Elliptic PDEs with Transformers </h3> 
+<div class="wordwrap"> Frank Cole, Yulong Lu, Riley O'Neill, Tianhao Zhang, 2024. <a href="{https://arxiv.org/abs/2405.17764}">arXiv preprint</a>.</div>
 
 <h2>{Publications}</h2><hr />
 **BBScore: A Brownian bridge based metric for assessing text coherence**

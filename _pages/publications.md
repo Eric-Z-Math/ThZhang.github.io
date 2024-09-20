@@ -22,4 +22,4 @@ author_profile: true
 <div class="wordwrap"> Jia Gou*, <b>Tianhao Zhang</b>*, and Hans G. Othmer (*=equal contributions), <i>Cancers 2023; 15(19):4840</i>. <a href="https://doi.org/10.3390/cancers15194840" target="_blank">Link</a>.</div>
 
 <h3>[1] A constructive proof of the Cauchy–Kovalevskaya theorem for ordinary differential equations</h3> 
-<div class="wordwrap"> Shane Kepley*, and <b>Tianhao Zhang</b>* (*=equal contributions), <i>  Journal of Fixed Point Theory and Applications 23, 7</i>. <a href="https://doi.org/10.1007/s11784-020-00841-1" target="_blank">Link</a>.</div>
+<div class="wordwrap"> Shane Kepley, and <b>Tianhao Zhang</b> (alphabetical order), <i>  Journal of Fixed Point Theory and Applications 23, 7</i>. <a href="https://doi.org/10.1007/s11784-020-00841-1" target="_blank">Link</a>.</div>

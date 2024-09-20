@@ -8,7 +8,7 @@ author_profile: true
 <h2> Preprints </h2><hr />
 
 <h3>[5] Provable In-Context Learning of Linear Systems and Linear Elliptic PDEs with Transformers </h3> 
-<div class="wordwrap"> Frank Cole, Yulong Lu, Riley O'Neill, and <b>Tianhao Zhang</b>, 2024. 
+<div class="wordwrap"> Frank Cole, Yulong Lu, Riley O'Neill, and <b>Tianhao Zhang</b> (alphabetical order), 2024. 
  <i>arXiv</i>. <a href="https://arxiv.org/abs/2409.12293" target="_blank">Link</a>.</div>
 
 <h3>[4] On the Sequence Evaluation based on Stochastic Processes </h3> 

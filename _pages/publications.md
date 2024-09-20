@@ -1,13 +1,20 @@
 ---
 layout: archive
-title: "Publications"
+title: "Preprints"
 permalink: /publications/
 author_profile: true
 ---
 **On the Sequence Evaluation based on Stochastic Processes**
 
  *arXiv preprint, DOI: https://arxiv.org/abs/2405.17764*
- 
+
+
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 **BBScore: A Brownian bridge based metric for assessing text coherence**
 
  *AAAI (2024), DOI: https://doi.org/10.1609/aaai.v38i13.29414*

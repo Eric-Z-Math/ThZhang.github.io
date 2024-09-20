@@ -12,7 +12,7 @@ author_profile: true
  <i>arXiv</i>. <a href="https://arxiv.org/abs/2405.17764" target="_blank">Link</a>.</div>
 
 <h3> Provable In-Context Learning of Linear Systems and Linear Elliptic PDEs with Transformers </h3> 
-<div class="wordwrap"> Frank Cole, Yulong Lu, Riley O'Neill, <b>Tianhao Zhang</b>, 2024. 
+<div class="wordwrap"> Frank Cole, Yulong Lu, Riley O'Neill, and <b>Tianhao Zhang</b>, 2024. 
  <i>arXiv</i>. <a href="https://arxiv.org/abs/2409.12293" target="_blank">Link</a>.</div>
 
 <h2>Publications</h2><hr />

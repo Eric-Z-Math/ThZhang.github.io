@@ -9,7 +9,7 @@ author_profile: true
 
 <h3> On the Sequence Evaluation based on Stochastic Processes </h3> 
 <div class="wordwrap"> <b>Tianhao Zhang</b>*, Zhexiao Lin*, Zhecheng Sheng*, Chen Jiang* and Dongyeop Kang (*=equal contributions), 2024. 
- <i>arXiv.</i>i. <a href="{https://arxiv.org/abs/2405.17764}">Link</a>.</div>
+ <i>arXiv.</i>i. <a href="https://arxiv.org/abs/2405.17764" target="_blank">Link</a>.</div>
 
 <h3> Provable In-Context Learning of Linear Systems and Linear Elliptic PDEs with Transformers </h3> 
 <div class="wordwrap"> Frank Cole, Yulong Lu, Riley O'Neill, <b>Tianhao Zhang</b>, 2024. 

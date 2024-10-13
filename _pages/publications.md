@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<h2> Workshop Papers </h2><hr />
+<h3>[5] Provable In-Context Learning of Linear Systems and Linear Elliptic PDEs with Transformers </h3> 
+<div class="wordwrap"> Frank Cole, Yulong Lu, Riley O'Neill, and <b>Tianhao Zhang</b> (alphabetical order), 2024. <i>Neurips 2024 Workshop Foundation Models for Science: Progress, Opportunities, and Challenges Poster</i><a href="https://arxiv.org/abs/2409.12293" target="_blank">Link</a>.</div>
+
 <h2> Preprints </h2><hr />
 
 <h3>[5] Provable In-Context Learning of Linear Systems and Linear Elliptic PDEs with Transformers </h3> 
@@ -23,3 +27,4 @@ author_profile: true
 
 <h3>[1] A constructive proof of the Cauchy–Kovalevskaya theorem for ordinary differential equations</h3> 
 <div class="wordwrap"> Shane Kepley, and <b>Tianhao Zhang</b> (alphabetical order), <i>  Journal of Fixed Point Theory and Applications 23, 7</i>. <a href="https://doi.org/10.1007/s11784-020-00841-1" target="_blank">Link</a>.</div>
+

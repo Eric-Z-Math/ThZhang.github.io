@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <h2> Workshops </h2><hr />
-<h3>[1] Provable In-Context Learning of Linear Systems and Linear Elliptic PDEs with Transformers </h3> 
+<h3>[W.1] Provable In-Context Learning of Linear Systems and Linear Elliptic PDEs with Transformers </h3> 
 <div class="wordwrap"> Frank Cole, Yulong Lu, Riley O'Neill, and <b>Tianhao Zhang</b> (alphabetical order), 2024. <i>Neurips 2024 Workshop Foundation Models for Science: Progress, Opportunities, and Challenges Poster.</i> <a href="https://arxiv.org/abs/2409.12293" target="_blank">Link</a>.</div>
 
 

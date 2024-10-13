@@ -26,9 +26,9 @@ Modeling the Self-reconfiguration Process in Neuronal Networks
 ------
 *This is a collaborated work with [Prof. Christoph Kirst](https://neurograd.ucsf.edu/people/christoph-kirst-phd-ms-bs). We are developing a tensor-based learning algorithm to simulate and explore synchronized learning behavior in the brain. Paper to be uploaded.*
 
-In-Context Learning of PDEs
+In-Context Learning of the Dynamical System.
 ------
-*This is a collaborated work with [Frank Cole](https://sites.google.com/umn.edu/frank-cole), [Prof. Yulong Lu](https://lu.math.umn.edu/) and [Riley O'Neill](https://www.researchgate.net/profile/Riley-Oneill-2).*
+*This is a collaborated work with [Frank Cole](https://sites.google.com/umn.edu/frank-cole), and [Prof. Yulong Lu](https://lu.math.umn.edu/).*
 
 **Understanding the biological complex network**
 ------

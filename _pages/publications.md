@@ -12,6 +12,9 @@ author_profile: true
 
 <h2> Preprints </h2><hr />
 
+<h3>[6] In-Context Learning of Linear Dynamical Systems with Transformers: Error Bounds and Depth-Separation </h3> 
+<div class="wordwrap"> Frank Cole, Yulong Lu, <b>Tianhao Zhang</b>, and Yuxuan Zhao, 2025. <a href="https://arxiv.org/abs/2502.08136" target="_blank">Link</a>.</div>
+
 <h3>[5] Provable In-Context Learning of Linear Systems and Linear Elliptic PDEs with Transformers </h3> 
 <div class="wordwrap"> Frank Cole, Yulong Lu, Riley O'Neill, and <b>Tianhao Zhang</b> (alphabetical order), 2024. <a href="https://arxiv.org/abs/2409.12293" target="_blank">Link</a>.</div>
 

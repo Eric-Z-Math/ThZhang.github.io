@@ -26,11 +26,7 @@ Modeling the Self-reconfiguration Process in Neuronal Networks
 ------
 *This is a collaborated work with [Prof. Christoph Kirst](https://neurograd.ucsf.edu/people/christoph-kirst-phd-ms-bs). We are developing a tensor-based learning algorithm to simulate and explore synchronized learning behavior in the brain. Paper to be uploaded.*
 
-In-Context Learning of the Dynamical System.
-------
-*This is a collaborated work with [Frank Cole](https://sites.google.com/umn.edu/frank-cole), and [Prof. Yulong Lu](https://lu.math.umn.edu/).*
-
-**Understanding the biological complex network**
+Understanding the biological complex network
 ------
 *In this project, we are investigating complex network modularization and network reduction. This project, which began in my first year as a review to understand biological complex networks, is a collaboration with [Prof. Hans Othmer](https://www-users.cse.umn.edu/~othmer/). We are aiming to find an efficient and effective method to simplify complex biological networks. To tackle this problem, we employ both continuous methods (e.g. ODEs) and discrete methods (e.g. Boolean model) and analyze both the structure of the system and its dynamics. Furthermore, we verify our idea on different systems such as gene regulation networks.*
 

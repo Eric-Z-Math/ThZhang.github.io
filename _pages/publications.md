@@ -22,7 +22,7 @@ author_profile: true
 <h2>Publications</h2><hr />
 
 <h3>[4] BBScoreV2: Learning Time-Evolution and Latent Alignment from Stochastic Representation </h3> 
-<div class="wordwrap"> <b>Tianhao Zhang</b>*, Zhexiao Lin*, Zhecheng Sheng*, Chen Jiang* and Dongyeop Kang (*=equal contributions), <i>The 2025 Conference on Empirical Methods in Natural Language Processing</i>. <a href="https://arxiv.org/abs/2405.17764" target="_blank">Link</a>.</div>
+<div class="wordwrap"> <b>Tianhao Zhang</b>*, Zhexiao Lin*, Zhecheng Sheng*, Chen Jiang* and Dongyeop Kang (*=equal contributions), <i>The 2025 Conference on Empirical Methods in Natural Language Processing (Main Conference)</i>. <a href="https://arxiv.org/abs/2405.17764" target="_blank">Link</a>.</div>
 
 
 <h3>[3] BBScore: A Brownian bridge based metric for assessing text coherence</h3> 

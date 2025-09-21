@@ -12,8 +12,6 @@ I'm a 4th year applied mathematics Ph.D student at the University of Minnesota, 
 
 My research interests include Computational biology, Computational Neuroscience, Complex Networks and NLP. I have a strong interest in understanding the function of our brain, from both the biochemical direction (e.g. modeling the tripartite synapse with dynamical systems), and the computational direction (e.g. exploring its computation ability with recurrent neuronal networks). Moreover, I am also interested in NLP and hope to explore its interaction with some functions of the brain (e.g. cognition and learning).
 
-You can find my CV here: [Tianhao's Curriculum Vitae](../assets/Tianhao ZHANG 2024.pdf).
-
 Current Research
 ======
 *Here I briefly summarize all my current research.*

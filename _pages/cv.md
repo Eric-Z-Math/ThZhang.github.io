@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Others"
+permalink: /others/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
-
-You can find my CV here: [Tianhao's Curriculum Vitae](../assets/Tianhao ZHANG 2023.pdf).

@@ -13,11 +13,13 @@ author_profile: true
 <h2> Preprints </h2><hr />
 
 
-<h3>[6] 	In-Context Learning of Linear Systems: Generalization Theory and Application to Operator Learning </h3> 
-<div class="wordwrap"> Frank Cole, Yulong Lu, Wuzhe Xu, and <b>Tianhao Zhang</b> (alphabetical order), 2024. <a href="https://arxiv.org/abs/2409.12293" target="_blank">Link</a>.</div>
+<h3> ...
 
 
 <h2>Publications</h2><hr />
+
+[6] 	In-Context Learning of Linear Systems: Generalization Theory and Application to Operator Learning </h3> 
+<div class="wordwrap"> Frank Cole, Yulong Lu, Wuzhe Xu, and <b>Tianhao Zhang</b> (alphabetical order), To appear in SIAM Journal on Mathematics of Data Science. <a href="https://arxiv.org/abs/2409.12293" target="_blank">Link</a>.</div>
 
 <h3>[5] In-Context Learning of Linear Dynamical Systems with Transformers: Error Bounds and Depth-Separation </h3> 
 <div class="wordwrap"> Frank Cole, Yulong Lu, <b>Tianhao Zhang</b>, and Yuxuan Zhao, 2025. <i>The Thirty-ninth Annual Conference on Neural Information Processing Systems.</i> <a href="https://arxiv.org/abs/2502.08136" target="_blank">Link</a>.</div>

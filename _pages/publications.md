@@ -18,7 +18,7 @@ author_profile: true
 
 <h2>Publications</h2><hr />
 
-[6] 	In-Context Learning of Linear Systems: Generalization Theory and Application to Operator Learning </h3> 
+<h3>[6] In-Context Learning of Linear Systems: Generalization Theory and Application to Operator Learning </h3> 
 <div class="wordwrap"> Frank Cole, Yulong Lu, Wuzhe Xu, and <b>Tianhao Zhang</b> (alphabetical order), To appear in SIAM Journal on Mathematics of Data Science. <a href="https://arxiv.org/abs/2409.12293" target="_blank">Link</a>.</div>
 
 <h3>[5] In-Context Learning of Linear Dynamical Systems with Transformers: Error Bounds and Depth-Separation </h3> 
